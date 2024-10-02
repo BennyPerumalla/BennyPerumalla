@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @BennyPerumalla aka programming_poet
+- 👋 Hi, I’m @BennyPerumalla aka `programming_poet`
 - 👀 I’m interested in `Gen-Ai`, `Cloud-computing`, `Graphic-designing`
 - 🌱 I’m currently learning `Gen-Ai`
 - 💞️ I’m looking to collaborate on `graphic-designing`, `Web-Desigining`
 - 📫 How to reach me
-- ``` bash
+  #### linkedin: 
+  ``` bash
    https://www.linkedin.com/in/benny-perumalla-a7ab6024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  ```
+  #### Instagram:
+  ``` bash
+  https://www.instagram.com/chanceux____07?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
   ```
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `Moon is sun to me`
