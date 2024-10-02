@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning `Gen-Ai`
 - 💞️ I’m looking to collaborate on `graphic-designing`, `Web-Desigining`
 - 📫 How to reach me
-  #### linkedin: 
+  #### linkedin: `Benny-perumalla`
   ``` bash
    https://www.linkedin.com/in/benny-perumalla-a7ab6024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   ```
-  #### Instagram:
+  #### Instagram:`Benny perumalla`
   ``` bash
   https://www.instagram.com/chanceux____07?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
   ```
