@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BennyPerumalla aka `programming_poet`
 - 👀 I’m interested in `Gen-Ai`, `Cloud-computing`, `Graphic-designing`
 - 🌱 I’m currently learning `Gen-Ai`
-- 💞️ I’m looking to collaborate on `graphic-designing`, `Web-Desigining`
+- 💞️ I’m looking to collaborate on `graphic-designing`, `Web-Designing`
 - 📫 How to reach me
   #### linkedin: `Benny-perumalla`
   ``` bash
