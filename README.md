@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @BennyPerumalla aka `programming_poet`<br>- 👀 I’m interested in `Gen-Ai`, `Cloud-computing`, `Graphic-designing`<br>- 🌱 I’m currently learning `Gen-Ai`<br>- 💞️ I’m looking to collaborate on `graphic-designing`, `Web-Designing`<br>- 📫 How to reach me<br><br>- 😄 Pronouns: `he/him`<br>- ⚡ Fun fact: `Moon is sun to me`<br>
+- 👋 Hi, I’m @BennyPerumalla aka `programming_poet`<br>- 👀 I’m interested in `Audio-Programming`, `Cloud-computing`, `Graphic-designing`<br>- 🌱 I’m currently learning `Gen-Ai`<br>- 💞️ I’m looking to collaborate on `graphic-designing`, `Web-Designing`<br>- 📫 How to reach me<br><br>- 😄 Pronouns: `he/him`<br>- ⚡ Fun fact: `Moon is sun to me`<br>
 
 
 ## 🌐 Socials:
