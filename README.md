@@ -81,20 +81,50 @@ status: learning Gen-AI · building in public
 ### `> cat ./stats`
 
 <div align="center">
-<a href="https://github.com/BennyPerumalla">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BennyPerumalla&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-</div>
-
-<div align="center">
-
-```
-  moon is sun to me  ·  open-source or it didn't happen
-```
-
+  <a href="https://github.com/BennyPerumalla">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=BennyPerumalla&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
 </div>
 
 ---
+
+### `> cat ./fav-orgs`
+
+<div align="center">
+
+  <!-- VideoLAN -->
+  <a href="https://github.com/videolan/vlc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=videolan&repo=vlc&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
+
+  <!-- FFmpeg -->
+  <a href="https://github.com/FFmpeg/FFmpeg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FFmpeg&repo=FFmpeg&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
+
+  <!-- Audacity -->
+  <a href="https://github.com/audacity/audacity">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=audacity&repo=audacity&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
+
+  <!-- Linux -->
+  <a href="https://github.com/torvalds/linux">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
+
+  <!-- GIMP -->
+  <a href="https://github.com/GNOME/gimp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GNOME&repo=gimp&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
+
+  <!-- Blender -->
+  <a href="https://github.com/blender/blender">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blender&repo=blender&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  </a>
+
+
+---
+
 
 ### `> ls ./socials`
 
